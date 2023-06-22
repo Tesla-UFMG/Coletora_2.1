@@ -1,0 +1,6 @@
+../Core/Src/CAN.c:62:6:HAL_FDCAN_RxFifo0Callback	16	static
+../Core/Src/CAN.c:85:6:CAN_Configure_Init	8	static
+../Core/Src/CAN.c:128:6:Clean_CAN_vector	16	static
+../Core/Src/CAN.c:143:6:CAN_Init	8	static
+../Core/Src/CAN.c:180:6:canMessageReceived	24	static
+../Core/Src/CAN.c:199:6:CAN_TxData	16	static
